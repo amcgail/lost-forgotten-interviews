@@ -17,9 +17,78 @@ dead_people = {
     'cole, s',
     'porter, j', #long dead lol,
     'rosenfeld, r' #it's rachael you dingus
+    
+    'hodson, r',
+    'wright, e',
+    'rehberg, r',
+    'hoge, d',
+    'simpson, r',
+    'parsons, t',
+    'sewell, w',
+    'miller, r',
+    'platt, g',
+    #'langman, l', # not actually
+    'smith, k',
+    'marini, m',
+    'vorwaller, d',
+    'lipset, s',
+    'smith, a',
+    'cole, s',
+    'porter, j', #long dead lol
+    
+    "form, w",
+    "freeman, j",
+    "davis, j",
 }
 
 descs = {
+    "orum, a": """ Anthony. amorum@uic.edu // [link](https://soc.uic.edu/profiles/orum-anthony/) """,
+    "gillis, a": """ AR (Ron). Professor Emeritus, Sociology, University of Toronto //  can't find the info. call the school? """,
+    "hayes, b": """  Bernadette C. Hayes [link](https://www.abdn.ac.uk/people/b.hayes). 
+Department of Sociology Research School of the Social Sciences The Australian National University. b.hayes@abdn.ac.uk 
+
++44 (0)1224 273128
+Room F05 Department of Sociology University of Aberdeen Edward Wright Building Aberdeen AB24 3QY""",
+    "mirowsky, j": """ John.
+    
+    E-mail: mirowsky@prc.utexas.edu
+    Phone: 512-232-7064
+    Office: RLP 2.622G
+    Campus Mail Code: G1800
+
+    """,
+    "williams, t": """ willit01@newschool.edu  //  [goddam finally](https://www.newschool.edu/nssr/faculty/terry-williams/) Terry Williams is a sociologist, academic and author whose work includes urban social policy and related fields. He founded the Harlem Writers Crew Project.  """,
+    "myers, m": """  Martha // mamyers@uga.edu [link](https://sociology.uga.edu/directory/people/martha-myers)
+Phone Number: 706-542-2421 //  """,
+    "alexander, k": """  (not)Kari. Karl Len. 
+    
+    Department of Sociology
+Johns Hopkins University
+Baltimore, MD 21218
+Telephone: 410-245-3535 (Home); 410-516-6178 (Sociology)
+E-mail: Karl@jhu.edu
+""",
+    "smith, d": """ not Dennis. he's only written books. Must be Dwayne // [link](http://sociology.usf.edu/faculty/dsmith/)
+    
+    4202 E. Fowler Ave. CGS401
+    Tampa, FL 33620
+    813/974-3151 / 813/974-5093 (FAX)
+    mdsmith8@usf.edu
+""",
+    "form, w": """   William Form. [ded](https://socy.umd.edu/about-us/william-form-lecture) """, # fkn dead
+    #"freeman, j": """   """,
+    #"davis, j": """   """, #ded
+    "richardson, j": """ [link](https://www.unr.edu/sociology/people/james-richardson). James. Phone: (775) 784-6270
+Email: jtr@unr.edu
+Building: NJC
+Room: 114
+Mailstop: 0300  """,
+    "jurik, n": """ Nancy, Nancy.Jurik@asu.edu // (480) 965-7043 // [link](https://isearch.asu.edu/profile/863) """,
+    'robinson, r': """Robert V. Emiritus // https://sociology.indiana.edu/about/emeriti/robinson-robert.html // Indiana University. robinsor@indiana.edu""",
+    'zipp, j': """John. jzipp@uakron.edu // [link](https://www.uakron.edu/sociology/faculty-staff/bio-detail.dot?u=jzipp)""",
+    'semyonov, m':"""Moshe... Office Phone: (312) 996-5908, Email: semyonov@uic.edu... University of Illinois Chicago. [link](https://soc.uic.edu/profiles/semyonov-moshe/)""",
+    'goldthorpe, j':"""@Nuffield... John... john.goldthorpe@nuffield.ox.ac.uk, T:  +44(0)1865 278559 // [link](https://www.nuffield.ox.ac.uk/people/profiles/john-goldthorpe/)""",
+    'lorence, j': """Jon Lorence. Phone: 713.743.3959, Email: jlorence@uh.edu, @University of Houston [link](https://uh.edu/class/sociology/faculty/jon-lorence/)""",
     'hagan, j': """[https://sociology.northwestern.edu/people/faculty/core/john-hagan.html](link).
         jhagan@abfn.org. (847) 491-5688.
         He developed an early interest in the social organization of subjective justice that is continued in his 2005 American Sociological Review article with Carla Shedd and Monique Payne on race, ethnicity and perceptions of criminal injustice. """,
