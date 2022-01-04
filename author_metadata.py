@@ -39,6 +39,10 @@ dead_people = {
     "form, w",
     "freeman, j",
     "davis, j",
+    
+    "crompton, r",
+    "buttel, f",
+    "roof, w"
 }
 
 descs = {
